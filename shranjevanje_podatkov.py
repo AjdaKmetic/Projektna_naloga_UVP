@@ -6,7 +6,7 @@ def shrani_csv(imena_stolpcev, vrstice, mapa, datoteka):
     os.makedirs(mapa, exist_ok=True)
     pot = os.path.join(mapa, datoteka)
     with open(pot, 'w', encoding='utf-8') as csv_file:
-        writer = csv.DictWriter(csv_file, fieldnames=imena_stolpcev, delimiter=";")
+        writer = csv.DictWriter(csv_file, fieldnames=imena_stolpcev)
         writer.writeheader()
         writer.writerows(vrstice)
     return
