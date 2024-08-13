@@ -2,7 +2,7 @@
 
 V tej projektni nalogi sem analizirala podatke iz Premier lige (sezona 2023/2024), katere si lahko ogledate na spletni strani [fbref.com](https://fbref.com/en/comps/9/2023-2024/stats/2023-2024-Premier-League-Stats).<br/>
 
-Podatki, ki sem jih zajela so ime igralca, narodnost, položaj, ekipa, starost, odigrane tekme, minute, goli, asistence, rumeni kartoni in rdeči kartoni.
+Podatki, ki sem jih zajela, so ime igralca, narodnost, položaj, ekipa, starost, odigrane tekme, minute, goli, asistence, rumeni kartoni in rdeči kartoni.
 
 Tabela vseh podatkov je prikazana v datoteki igralci.csv, ki se nahaja v mapi podatki, analizo pa si lahko ogledate v datoteki analiza.ipynb.<br/> 
 
