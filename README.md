@@ -6,6 +6,6 @@ Podatki, ki sem jih zajela, so ime igralca, narodnost, položaj, ekipa, starost,
 
 Tabela vseh podatkov je prikazana v datoteki igralci.csv, ki se nahaja v mapi podatki, analizo pa si lahko ogledate v datoteki analiza.ipynb.<br/> 
 
-V njej je predstavljena statistika posameznih igralcev, kot so goli, asistence, rdeči in rumeni kartoni, itd. Lahko si ogledate, kakšen je nastop igralcev posameznih starostnih skupin, in pogledate podatke predstavljene in analizirane po ekipah.<br/>
+V njej je predstavljena statistika posameznih igralcev, kot so goli, asistence, rdeči in rumeni kartoni, itd. Lahko si ogledate, kakšen je nastop posameznih starostnih skupin, in pogledate podatke predstavljene in analizirane po ekipah.<br/>
 
-Za uporabo samega programa potrebujete nameščene knjižnice pandas, numpy, seaborn in matplotlib.
+Za uporabo samega programa potrebujete nameščene knjižnice requests, pandas, seaborn in matplotlib.
